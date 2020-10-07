@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_emailSignin" type="id" />
+    <item name="et_passwordSignin" type="id" />
+    <item name="button_signinSignin" type="id" />
+    <item name="button_signupSignin" type="id" />
+    <item name="et_emailSignup" type="id" />
+    <item name="et_passwordSignup" type="id" />
+    <item name="et_passwordSignup2" type="id" />
+    <item name="button_signupSignup" type="id" />
+</resources>
